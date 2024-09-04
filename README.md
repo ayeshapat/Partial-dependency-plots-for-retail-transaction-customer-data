@@ -1,1 +1,2 @@
 # Partial-dependency-plots-for-retail-transaction-customer-data
+This repository features a course assignment for CHE-1148 (Process Data Analytics), concentrating on MLOps, data quality, model drift, and interpretable/explainable machine learning. The included Jupyter Notebook demonstrates a project that generates partial dependence plots for a random forest model predicting client responses to a promotional campaign.
